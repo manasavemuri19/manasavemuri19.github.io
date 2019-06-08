@@ -1,9 +1,9 @@
- h1{
-                color:red;
-                background:yellow;
-            }
             #first
             {
-                color:yellow;
-                background:red;
+                color:black;
+                background:yellow;
             }
+h2{
+    color:black;
+    background:yellow;
+}
